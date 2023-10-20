@@ -1,7 +1,7 @@
-import { Component } from "react";
+import { component } from "react";
 import "./style.css";
 
-export class Color extends Component {
+export class Color extends component {
   constructor(props) {
     super(props);
     this.state = {
