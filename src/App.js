@@ -1,4 +1,4 @@
-import {palette} from './component/palette';
+import {palette} from './palette';
 function App() {
   return (
     <div className="App">
