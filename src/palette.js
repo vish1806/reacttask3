@@ -1,4 +1,4 @@
-import { component } from "react";
+import component from "react";
 import "./style.css";
 
 export class Color extends component {
